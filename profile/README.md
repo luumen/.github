@@ -1,6 +1,6 @@
-## Welcome to Hatchfi's GitHub!
+## Welcome to Hatchfi's GitHub (formally Luumen)!
 
-We're building an API that empowers financial products to connect to their users' cryptocurrency data in just a few hours, not weeks or months.
+With just a few lines of code, our API supercharges financial applications with the power of crypto data, letting developers securely access their users' historical balances and transactions from over 35 cryptocurrency integrations.
 
 ### 🧑‍💻 By developers, for developers
 
